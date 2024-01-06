@@ -4,7 +4,7 @@
 
 > The game is not released so any work made on this app will likely need to be changed
 
-Check out our [homepage][website], [documentation][docsWebsite] and [status page][nmsStatus]
+Check out our [homepage][website] and [documentation][docsWebsite] 
 
 [![Follow on Twitter](https://img.shields.io/badge/follow-%40AssistantNMS-1d9bf0?logo=twitter&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
@@ -13,7 +13,6 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Mastodon](https://img.shields.io/mastodon/follow/109315859662532146?color=%2300ff00&domain=https%3A%2F%2Fnomanssky.social&style=for-the-badge&logo=mastodon)][mastodon]
 [![AssistantNMS Holopin Dashboard](https://img.shields.io/badge/Holopin-AssistantNMS-brightgreen?style=for-the-badge)][holopinDashboard]
 
-<br />
 
 [website]: https://assistantapps.com?ref=AssistantLNFGithub
 [docsWebsite]: https://docs.assistantapps.com/#/apps/lnf-main?ref=AssistantLNFGithub
